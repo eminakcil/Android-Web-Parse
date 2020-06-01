@@ -9,12 +9,6 @@ AsyncTask
 RecyclerView - RecyclerAdapter
 ```
 
-##
-
- 1. Uygulama açıldığında hedef websitesini verilen parametrelerle parçalar.
- 2. Item modelinden referans alınır.
- 3. RecyclerAdapter sınıfı verileri RecyclerView de gösterir.
-
 ## Kullanılan kütüphaneler
 
  - Jsoup (org.jsoup:jsoup:1.12.1)
