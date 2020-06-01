@@ -9,7 +9,7 @@ AsyncTask
 RecyclerView - RecyclerAdapter
 ```
 
-## Çalışma Sırası
+##
 
  1. Uygulama açıldığında hedef websitesini verilen parametrelerle parçalar.
  2. Item modelinden referans alınır.
